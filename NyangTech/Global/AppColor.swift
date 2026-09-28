@@ -18,4 +18,9 @@ extension Color {
     // Button Colors
     static let googleButtonBg = Color(red: 0.95, green: 0.95, blue: 0.95)
     static let duplicateCheckBg = Color(red: 1.0, green: 0.94, blue: 0.70)
+
+    // Settings Screen Colors
+    static let settingsTitleText = Color(red: 0.10, green: 0.11, blue: 0.11)
+    static let avatarPlaceholder = Color(red: 0.85, green: 0.85, blue: 0.85)
+    static let settingsCardDivider = Color(red: 0.81, green: 0.77, blue: 0.77).opacity(0.1)
 }
